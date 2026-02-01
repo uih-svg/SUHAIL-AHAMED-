@@ -30,7 +30,6 @@ This GitHub contains my **end-to-end data analysis projects**, covering data cle
 
 ## 🎯 What I’m Working On
 - Advanced **Power BI dashboards**
-- **DAX** and data modeling
 - SQL case studies
 - Real-world business analysis projects
 
