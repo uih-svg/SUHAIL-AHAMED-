@@ -41,7 +41,7 @@ To secure a **Data Analyst role** where I can use data to support business decis
 ---
 
 ## 📫 Connect With Me
-- **GitHub:** https://github.com/uih-svg
+- **GitHub:** (https://github.com/uih-svg)
 - **LinkedIn:** (www.linkedin.com/in/suhail-ahmed-63736b24)
 - ** Naukri:** (https://www.naukri.com/mnjuser/profile?id=&altresid)
 
