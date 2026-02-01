@@ -1,7 +1,50 @@
-# SUHAIL-AHAMED-
-My GitHub Portfoli
-🚀 Aspiring Data Analyst on a mission to turn raw data into smart decisions.
-💼 Currently working in Customer Support while building skills in Power BI, Excel, SQL, and AI tools.
-📚 Learning every day through real projects, BE10X Inner Circle, and hands-on practice.
-🧠 Passionate about automation, dashboards, and storytelling with data.
-🎯 Dreaming big, staying consistent — one dashboard at a time.
+# Suhail Ahamed — Data Analyst Portfolio 📊
+
+Hi, I’m **Suhail Ahamed**, an aspiring **Data Analyst** focused on transforming raw data into clear, actionable insights.
+
+This GitHub contains my **end-to-end data analysis projects**, covering data cleaning, analysis, visualization, and business storytelling.
+
+---
+
+## 🔧 Skills & Tools
+- **Data Analysis:** Excel, SQL, R
+- **Visualization:** Power BI, ggplot2
+- **Languages:** R, SQL
+- **Libraries:** tidyverse
+- **Other:** GitHub, Kaggle, Data storytelling
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Bellabeat Smart Device Usage Analysis  
+**Tools:** R, tidyverse, ggplot2  
+- Analyzed smart device usage data to identify activity and behavior trends  
+- Performed data cleaning, aggregation, and visualization  
+- Delivered business-driven insights for wellness strategy  
+
+🔗 Repository:  
+👉 https://github.com/uih-svg/bellabeat-smart-device-usage-analysis
+
+---
+
+## 🎯 What I’m Working On
+- Advanced **Power BI dashboards**
+- **DAX** and data modeling
+- SQL case studies
+- Real-world business analysis projects
+
+---
+
+## 📌 Career Goal
+To secure a **Data Analyst role** where I can use data to support business decisions, improve processes, and create meaningful dashboards.
+
+---
+
+## 📫 Connect With Me
+- **GitHub:** https://github.com/uih-svg
+- **LinkedIn:** (add your LinkedIn profile link here)
+
+---
+
+⭐ Feel free to explore my projects and follow my journey.
