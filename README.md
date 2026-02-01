@@ -25,6 +25,8 @@ This GitHub contains my **end-to-end data analysis projects**, covering data cle
 
 🔗 Repository:  
 👉 https://github.com/uih-svg/bellabeat-smart-device-usage-analysis
+🔗 RMD :
+👉 https://rpubs.com/Suhail_/1392111
 
 ---
 
