@@ -23,9 +23,6 @@ This GitHub contains my **end-to-end data analysis projects**, covering data cle
 - Performed data cleaning, aggregation, and visualization  
 - Delivered business-driven insights for wellness strategy  
 
-🔗 Repository:  
-👉 https://github.com/uih-svg/bellabeat-smart-device-usage-analysis
-
 🔗 Project → 1 :
 👉 https://rpubs.com/Suhail_/1392111
 
